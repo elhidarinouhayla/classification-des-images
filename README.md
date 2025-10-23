@@ -45,4 +45,4 @@ Ce projet utilise **TensorFlow et Keras** pour créer un modèle capable de reco
 
 👩‍💻 Auteur
 
-El hidari Nouhayla
+El Hidari Nouhayla
