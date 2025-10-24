@@ -31,7 +31,7 @@ Ce projet utilise **TensorFlow et Keras** pour créer un modèle capable de reco
    - Entraînement sur **10 époques**
 
 5. **Évaluation**
-   - Précision sur les données de test : **≈ 88%**
+   - Précision sur les données de test : **≈ 92%**
 
 ---
 
